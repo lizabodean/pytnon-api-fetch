@@ -1,4 +1,4 @@
-# Prerequisites
+## Prerequisites
 Before you can use this project, you'll need to have the following software installed on your system:
 - Python (version 3.10 or higher)
 - Docker
@@ -19,7 +19,6 @@ api.py: This Python script is responsible for fetching and displaying a list of 
 Dockerfile: This Dockerfile contains instructions for building a Docker image that encapsulates the Python script and its dependencies for easy deployment.
 
 ## Usage
-
 ## Running the Python Script 
 1. Open a terminal.
 2. Navigate to the directory containing the api.py file.
