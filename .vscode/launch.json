@@ -10,7 +10,12 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "justMyCode": true
+            "justMyCode": true,
+            "env": {
+                "API_TOKEN": "5yZeBdZAJm7uVQ.atlasv1.kIRdcEkuqAVAnkyjSLdrCc72JMbiyrYUQKJel23dKRJoqisHSvb0tOViFWIkP3j3NDk",
+                "ORGANIZATION": "Practice-UTM",
+                "BASE_URL": "https://app.terraform.io/api/v2/organizations/Practice-UTM"
+            },
         }
     ]
 }
