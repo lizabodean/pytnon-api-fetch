@@ -1,7 +1,4 @@
 {
-    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
-    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
-    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
@@ -12,7 +9,7 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "env": {
-                "API_TOKEN": "5yZeBdZAJm7uVQ.atlasv1.kIRdcEkuqAVAnkyjSLdrCc72JMbiyrYUQKJel23dKRJoqisHSvb0tOViFWIkP3j3NDk",
+                "API_TOKEN": "9XLFyGIwkUL93Q.atlasv1.llITcy9DTt8hxc2IW6ZVNsSCfcC6RrSktijFZS1BhKS9JtVWyk7UJWQC0s4aSVP3abk",
                 "ORGANIZATION": "Practice-UTM",
                 "BASE_URL": "https://app.terraform.io/api/v2/organizations/Practice-UTM"
             },
